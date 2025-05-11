@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Plans Trail',
   url: 'https://arfoll-corp.github.io',
-  baseUrl: '/training-plans/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
