@@ -1,94 +1,194 @@
-# Plan d'entraînement ultra-trail – 63 km / 4770 D+
-_Volume hebdo moyen : 6h / Niveau : debutant en trail_
+## Plan d'entraînement trail 63 km / 4770 D+ – Débutant
 
-## Bloc : Base aerobie & renfo
-### Semaine 1 – Volume : 5h30 – Intensites Z1/Z2/Z3 : 80/15/5
-**Seances cles :** Footing Z1, 3x4' Z2, renfo, sortie trail 2h
+Course cible : **Samedi 23 août 2025**  
+Volume hebdomadaire moyen : **6h**  
+FCM : **170 bpm** / FC repos : **42 bpm**  
+Zones FC (Karvonen) :  
+* **Z1** : 106 – 132 bpm (endurance fondamentale)  
+* **Z2** : 132 – 151 bpm (tempo, seuil aérobie)  
+* **Z3** : 151 – 164 bpm (seuil anaérobie)  
 
-**Conseils recuperation :** Repos actif, sommeil, hydratation.
+---
 
-### Semaine 2 – Volume : 6h – Intensites Z1/Z2/Z3 : 75/20/5
-**Seances cles :** Footing vallonne, 5x3 Z2 cote, pliometrie, trail 2h15
+## Bloc 1 : Base aérobie et adaptation musculo-tendineuse (5 May - 1 June)
 
-**Conseils recuperation :** Automassage, sieste.
+**Objectif** : Poser les bases de l’endurance, intégrer renforcement spécifique trail.
 
-### Semaine 3 – Volume : 6h30 – Intensites Z1/Z2/Z3 : 70/25/5
-**Seances cles :** Z1 + 4x2 Z3, marche active, PPG + escaliers, sortie 2h30
+### Semaine 1 (5–11 May)
 
-**Conseils recuperation :** Bain frais, gestion nutrition.
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 1h15
+* **Mercredi** : Renfo + gainage 30'
+* **Jeudi** : Fractionné 3x4' Z2
+* **Vendredi** : Repos
+* **Samedi** : Marche active 45'
+* **Dimanche** : Sortie trail 2h D+400m
 
-## Bloc : Decharge
-### Semaine 4 – Volume : 4h – Intensites Z1/Z2/Z3 : 90/10/0
-**Seances cles :** Footing Z1 + educatifs, marche, mobilite, sortie 1h30
+### Semaine 2 (12–18 May)
 
-**Conseils recuperation :** Pas de surcharge, sommeil > 8h.
+* **Lundi** : Renfo 30'
+* **Mardi** : Footing Z1 1h
+* **Mercredi** : Côtes 5x3' Z2
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Footing 30'
+* **Dimanche** : Sortie 2h15 D+500m
 
-### Semaine 9 – Volume : 4h15 – Intensites Z1/Z2/Z3 : 85/15/0
-**Seances cles :** Footing + educatifs, rando, yoga, sortie 1h30
+### Semaine 3 (19–25 May)
 
-**Conseils recuperation :** Repos mental, hydratation.
+* **Lundi** : Repos
+* **Mardi** : Footing 1h10 + 4x2’ Z3
+* **Mercredi** : Marche active D+400m
+* **Jeudi** : Renfo + descentes escaliers
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Trail 2h30 D+700m
 
-## Bloc : Specifique trail
-### Semaine 5 – Volume : 6h15 – Intensites Z1/Z2/Z3 : 75/20/5
-**Seances cles :** Footing Z1 + 6x1 Z3, PPG, trail 2h45 D+900m
+### Semaine 4 (26–1 June)
 
-**Conseils recuperation :** Hydratation ++.
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 45'
+* **Mercredi** : Côtes 4x20'' éducatives
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Footing 30'
+* **Dimanche** : Sortie 1h30 Z1
 
-### Semaine 6 – Volume : 6h30 – Intensites Z1/Z2/Z3 : 70/25/5
-**Seances cles :** 3x6 Z2 montee, rando 600+/900-, renfo escaliers, trail 2h
+---
 
-**Conseils recuperation :** Electrostim, automassage.
+## Bloc 2 : Renforcement spécifique et capacité en côtes (2 June - 29 June)
 
-### Semaine 7 – Volume : 6h15 – Intensites Z1/Z2/Z3 : 65/25/10
-**Seances cles :** 5x2 Z3 montee, proprio, trail 2h30 pacing
+**Objectif** : Améliorer tolérance excentrique et intensité en côte.
 
-**Conseils recuperation :** Jour off, etirements dynamiques.
+### Semaine 5 (2–8 June)
 
-### Semaine 8 – Volume : 6h45 – Intensites Z1/Z2/Z3 : 75/20/5
-**Seances cles :** 4x4 Z2, pliometrie, sortie 3h D+1100
+* **Lundi** : Renfo 30'
+* **Mardi** : Footing 1h Z1
+* **Mercredi** : Côtes 6x1’ Z3
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Trail 2h45 D+900m
 
-**Conseils recuperation :** Etirements + bain frais.
+### Semaine 6 (9–15 June)
 
-## Bloc : Simulation longue
-**Objectifs :** Effectuer une sortie tres longue, affiner la strategie nutritionnelle et mentale, simuler l’effort course en conditions proches du reel.
+* **Lundi** : Repos
+* **Mardi** : Footing 1h Z1
+* **Mercredi** : 3x6’ Z2 montée
+* **Jeudi** : Renfo + escaliers
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Trail 2h D+800m
 
-### Semaine 10 – Volume : 7h – Intensites Z1/Z2/Z3 : 70/25/5
-**Seances cles :** 4x4 Z2, sortie 4h D+1300, gainage
+### Semaine 7 (16–22 June)
 
-**Conseils recuperation :** Recup active, alimentation post-effort.
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 1h
+* **Mercredi** : 5x2’ Z3 montée
+* **Jeudi** : Repos
+* **Vendredi** : Gainage + proprio
+* **Samedi** : Repos
+* **Dimanche** : Trail 2h30 pacing D+1000m
 
-## Bloc : Pre-affutage
-### Semaine 11 – Volume : 5h30 – Intensites Z1/Z2/Z3 : 80/20/0
-**Seances cles :** Footing Z1, 5x3 Z2, trail 2h
+### Semaine 8 (23–29 June)
 
-**Conseils recuperation :** Alleger charge musculaire.
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 1h15
+* **Mercredi** : 4x4’ Z2 montée
+* **Jeudi** : Pliométrie + escaliers
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Sortie 3h D+1100m
 
-### Semaine 12 – Volume : 7h – Intensites Z1/Z2/Z3 : 75/20/5
-**Seances cles :** 6x2 Z3, sortie 3h15 D+1000, mobilite
+---
 
-**Conseils recuperation :** Evaluation RPE.
+## Bloc 3 : Spécificité trail et endurance mentale (30 June - 27 July)
 
-### Semaine 13 – Volume : 5h – Intensites Z1/Z2/Z3 : 85/15/0
-**Seances cles :** Footing + 6x30, rando, 1h45 Z1
+**Objectif** : Simuler conditions course, alimentation, matériel.
 
-**Conseils recuperation :** Repos, sensations.
+### Semaine 9 (30–6 July)
 
-### Semaine 14 – Volume : 4h30 – Intensites Z1/Z2/Z3 : 90/10/0
-**Seances cles :** 4x2 Z2, mobilite, 1h30 roulante
+* **Lundi** : Repos
+* **Mardi** : Footing 40'
+* **Mercredi** : Rando active D+300m
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Yoga mobilité
+* **Dimanche** : Sortie 1h30 roulante
 
-**Conseils recuperation :** Hydratation, logistique.
+### Semaine 10 (7–13 July)
 
-## Bloc : Affutage final
-### Semaine 15 – Volume : 3h30 – Intensites Z1/Z2/Z3 : 90/10/0
-**Seances cles :** Footing + 4x1 Z2, 1h15 matos complet, visualisation
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 1h10
+* **Mercredi** : 4x4’ Z2 côte
+* **Jeudi** : Renfo gainage
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Sortie 4h D+1300m
 
-**Conseils recuperation :** Sieste, pas de stress.
+### Semaine 11 (14–20 July)
 
-## Bloc : Semaine course
-**Objectifs :** Repos actif, maintien de la mobilite, fraicheur maximale le jour J.
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 1h
+* **Mercredi** : 5x3’ Z2
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Trail 2h D+600m
 
-### Semaine 16 – Volume : 2h – Intensites Z1/Z2/Z3 : 100/0/0
-**Seances cles :** 2 footings Z1, mobilite, relances
+### Semaine 12 (21–27 July)
 
-**Conseils recuperation :** Repos, alimentation maitrisee.
+* **Lundi** : Renfo
+* **Mardi** : Footing 1h
+* **Mercredi** : 6x2’ Z3 montée
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Sortie 3h15 D+1000m
+
+---
+
+## Bloc 4 : Affûtage final (28 July - 24 August)
+
+**Objectif** : Optimiser fraîcheur physique et mentale.
+
+### Semaine 13 (28–3 August)
+
+* **Lundi** : Repos
+* **Mardi** : Footing 45'
+* **Mercredi** : 6x30’’ Z2
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Sortie 1h45 Z1
+
+### Semaine 14 (4–10 August)
+
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 1h
+* **Mercredi** : 4x2’ Z2
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Sortie 1h30 Z1
+
+### Semaine 15 (11–17 August)
+
+* **Lundi** : Repos
+* **Mardi** : Footing Z1 45’ + 4x1’ Z2
+* **Mercredi** : Repos
+* **Jeudi** : Sortie matériel complet 1h15
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : Footing 30’
+
+### Semaine 16 (18–24 August)
+
+* **Lundi** : Repos
+* **Mardi** : Footing 20’ + 3 lignes droites
+* **Mercredi** : Repos
+* **Jeudi** : Repos
+* **Vendredi** : Repos
+* **Samedi** : Repos
+* **Dimanche** : **Course : 63 km / 4770 D+**
 
